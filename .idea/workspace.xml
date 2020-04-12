@@ -1,0 +1,2095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21db73b9-8184-4400-b3f2-1bbc86580ce6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_0_jre.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_prometheus_simpleclient_0_5_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_6_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/com/dougwag/action/lambda/LambdaDemo$$Lambda$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/javainaction.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/Observable/ObserverSample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/proxy/CglibDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/proxy/Girl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/proxy/TeacherCang.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/proxy/TeacherCang2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinition.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinitionRegistException.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinitionRegistry.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanReference.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/DefaultBeanFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/GenericBeanDefinition.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/PreBuildBeanFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/PropertyValue.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/ABean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/ABeanFactory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/CBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/CCBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/DBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/EBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/FBean.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/collection/DequeDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/collection/PriorityQueueDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/collection/linkedhashmap/LRULinkedMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/collection/linkedhashmap/LruDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/Dog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/PassByValueExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/class_demo/ClassAndObj.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/Cf.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/CfDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/CfDemoanyOf.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/DfDemoallOf.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/OldAsyncTask.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/CompletableFutureDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/GuavaFutureDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/JavaFutureDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/concurrentHashMap/ConcurrentHashMapTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/concurrentHashMap/FinalTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/concurrentHashMap/FinalTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/concurrentHashMap/FinalTest2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/concurrentHashMap/FinalTest2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/forkjoin/ForkJoinTaskExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/forkjoin/SumTaskDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/hashmap/HashMapTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/jit/JITDemo2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/AbstractQueuedSynchonizerDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/ConcurrentLinkedQueueDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/LockSupportDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/LockSupportTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/RWTreeMap.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/ReentrantLockDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/ReentrantReadWriteLockDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/ThreadLocalTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/blockingqueue/BlockingQueueExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/blockingqueue/Consumer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/blockingqueue/Producer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReadWriteLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReadWriteLock2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReentrantLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReentrantReadWriteLockCache.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/SelfLockDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/SelfLockDemo2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/scheduledthreadpoolexecutor/ScheduledThreadPoolTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/stampedlock/Point.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/threadpoolexecutor/MyMonitorThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/threadpoolexecutor/RejectedExecutionHandlerImpl.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/threadpoolexecutor/SimpleThreadPool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/threadpoolexecutor/WorkerPool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/threadpoolexecutor/WorkerThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/condition/ConditionDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/condition/Exercise.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/condition/SyncThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/countdownlatch/CountDownLatchDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/countdownlatch/T2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/countdownlatch/T3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/cyclicbarrier/CyclicBarrierDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/exchanger/ExchangerDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/exchanger/ExchangerTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/phaser/PhaserDemo5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/semaphore/SemaphoreDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/tool/semaphore/TestSemaphore2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/lambda/HelloTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/lambda/HelloTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/lambda/LambdaDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/lambda/LambdaDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/lambda/MethodHandleTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/lambda/com/dougwag/action/lambda/LambdaDemo$$Lambda$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/ConnectionDriver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/ConnectionPool.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/MultiThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/Priority.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/ThreadState.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedDemo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedDemo2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedObjectLock.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedObjectLock2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedObjectLock3.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedObjectLock4.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread/synchronize/SynchronizedObjectLock5.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/unsafe/UnsafeDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO12Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO13Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO14Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO1PrintListFromTailToHead.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO2Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO3Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO5Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO7Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO8Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO9Link.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/ext/MergeSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/ext/QuickSort.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack04.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack05.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds05/Heap01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds05/Heap02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds05/Heap03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree01.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree05.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds08/Blglq.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/Test.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientDaemon.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientRequestThread.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketServer1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketServer2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/mmap/MappedByteBufferTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nio/CopyFile.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nio/SocketServer1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iotest/nio/SocketServer2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/ConditionFoo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/Foo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1115.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1116.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1117.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1118.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode11195.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1226.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1242.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/leetcode/concurrency/leetCode1279.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/Observable/ObserverSample$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/Observable/ObserverSample$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/Observable/ObserverSample$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/Observable/ObserverSample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/proxy/CglibDemo$MyMethodInterceptor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/proxy/CglibDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/proxy/Girl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/proxy/TeacherCang.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/designmode/proxy/TeacherCang2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/BeanDefinition.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/BeanDefinitionRegistException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/BeanDefinitionRegistry.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/BeanFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/BeanReference.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/DefaultBeanFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/GenericBeanDefinition.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/PreBuildBeanFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/beans/PropertyValue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/ABean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/ABeanFactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/CBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/CCBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/DBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/EBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/FBean.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/aboutspring/sourcecode/samples/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/collection/DequeDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/collection/PriorityQueueDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/collection/Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/collection/linkedhashmap/LRULinkedMap$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/collection/linkedhashmap/LRULinkedMap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/collection/linkedhashmap/LruDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/parameter_pass/Dog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/base/parameter_pass/PassByValueExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/class_demo/ClassAndObj.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/Cf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/CfDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/CfDemoanyOf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/DfDemoallOf.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/OldAsyncTask$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/OldAsyncTask.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/CompletableFutureDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/GuavaFutureDemo$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/GuavaFutureDemo$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/GuavaFutureDemo$HotWarterJob.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/GuavaFutureDemo$MainJob.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/GuavaFutureDemo$WashJob.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/GuavaFutureDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/JavaFutureDemo$HotWarterJob.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/JavaFutureDemo$WashJob.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/JavaFutureDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/completableFuture/test/test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/concurrentHashMap/ConcurrentHashMapTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/concurrentHashMap/FinalTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/concurrentHashMap/FinalTest2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/forkjoin/ForkJoinTaskExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/forkjoin/SumTaskDemo$SumTask.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/forkjoin/SumTaskDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/hashmap/HashMapTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/jit/JITDemo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/AbstractQueuedSynchonizerDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/BuyCai.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/BuyGuo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/ConcurrentLinkedQueueDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/GetThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/LockSupportDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/LockSupportTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/MyRtThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/MyThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/PutThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/RWTreeMap.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/ReadThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/ReentrantLockDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/ReentrantReadWriteLockDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/ThreadLocalTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/WriteThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/blockingqueue/BlockingQueueExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/blockingqueue/Consumer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/blockingqueue/Producer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyInteger.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyReadWriteLock.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyReadWriteLock2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyReentrantLock$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyReentrantLock$Mysync.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyReentrantLock.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyReentrantReadWriteLockCache.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/MyRtThread2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/SelfLockDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/myself/SelfLockDemo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/scheduledthreadpoolexecutor/ScheduledThreadPoolTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/scheduledthreadpoolexecutor/Task.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/stampedlock/Point.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/threadpoolexecutor/MyMonitorThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/threadpoolexecutor/RejectedExecutionHandlerImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/threadpoolexecutor/SimpleThreadPool.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/threadpoolexecutor/WorkerPool.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/threadpoolexecutor/WorkerThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/A.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/AA.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/B.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/BB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/C.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/CC.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/ConditionDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/Exercise.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/condition/SyncThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/countdownlatch/CountDownLatchDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/countdownlatch/MyThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/countdownlatch/T2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/countdownlatch/T3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/cyclicbarrier/CyclicBarrierDemo$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/cyclicbarrier/CyclicBarrierDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/cyclicbarrier/MyThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/exchanger/ExchangerDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/exchanger/ExchangerTest$Consumer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/exchanger/ExchangerTest$Producer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/exchanger/ExchangerTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/phaser/PhaserDemo5$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/phaser/PhaserDemo5$Bus.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/phaser/PhaserDemo5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/semaphore/MyThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/semaphore/SemaphoreDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/semaphore/TestSemaphore2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/lambda/HelloTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/lambda/LambdaDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/lambda/MethodHandleTest$ClassA.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/lambda/MethodHandleTest$ClassB.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/lambda/MethodHandleTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ConnectionDriver$ConnectionHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ConnectionDriver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ConnectionPool.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/MultiThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/Priority$Job.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/Priority.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ThreadState$Blocked.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ThreadState$TimeWaiting.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ThreadState$Waiting.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/ThreadState.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/synchronize/SynchronizedDemo2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/synchronize/SynchronizedObjectLock.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/synchronize/SynchronizedObjectLock2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/synchronize/SynchronizedObjectLock3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/synchronize/SynchronizedObjectLock4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/thread/synchronize/SynchronizedObjectLock5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/unsafe/UnsafeDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/LinkNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/ListNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO12Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO13Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO14Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO1PrintListFromTailToHead.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO2Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO3Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO5Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO7Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO8Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO9Link.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/ext/QuickSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds02/Arry01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds02/Arry02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds02/Arry03.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds02/MergeSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds02/QuickSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds02/QuickSortMajor.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/BothStackShareMemory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/GetMinStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/ReverseStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/Solution.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/Stack01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/Stack02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/Stack03.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/Stack04.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/Stack05.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/TwoQueueImplStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds03/TwoStackImplQueue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds04/Queue01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds04/Queue02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds04/Queue03.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds04/Solution.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds04/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds05/Heap01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds05/Heap02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds05/Heap03.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree01.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree02.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree03.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree04.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree05.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree06.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree07.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds06/Tree08.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds08/Blglq.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds08/BloomFilterDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/aio/ServerSocketChannelHandle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/aio/SocketChannelReadHandle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/aio/SocketServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/bio/SocketClientDaemon.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/bio/SocketClientRequestThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/bio/SocketServer1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/bio/SocketServer2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/bio/SocketServerThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/mmap/MappedByteBufferTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nettyDemo/NettyClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nettyDemo/NettyServer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nettyDemo/NettyServer$MessageHandler.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nettyDemo/NettyServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nio/CopyFile.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nio/NIOClient.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nio/NIOServer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nio/SocketServer1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/iotest/nio/SocketServer2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/BoundedBlockingQueue.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/BoundedBlockingQueueLock.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/ConditionFoo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/DiningPhilosophers.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/DiningPhilosophers2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/DiningPhilosophers3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/DiningPhilosophers5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/FizzBuzz.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/FizzBuzz2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/FizzBuzz3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/FizzBuzz4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/FizzBuzz5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/Foo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/H2O.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/HtmlParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/Solution.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/T1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/T2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/T3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/TrafficLight.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/ZeroEvenOdd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/even.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/l1foo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/l2bar.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1115.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1116.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1117.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1118.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode11195.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1226.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1242.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/leetCode1279.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/odd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/leetcode/concurrency/zero.class" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NIOClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocketClientDaemon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientDaemon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyServer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocketClientRequestThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientRequestThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="940">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SocketServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReentrantReadWriteLock.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="463" column="0" lean-forward="false" selection-start-line="463" selection-start-column="0" selection-end-line="463" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompletionHandler.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/nio/channels/CompletionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>buildCallSite</find>
+      <find>ForwardingMethodGenerator</find>
+      <find>defineAnonymousClass</find>
+      <find>threshold</find>
+      <find>Entry</find>
+      <find>[]</find>
+      <find>hashCode</find>
+      <find>hash</find>
+      <find>Cloneable</find>
+      <find>result</find>
+      <find>Completion</find>
+      <find>SYNC</find>
+      <find>uniWhenComplete</find>
+      <find>array2Tree</find>
+      <find>forkjoinpool</find>
+      <find>forkjointask</find>
+      <find>Runtime.getRuntime()</find>
+      <find>lock</find>
+      <find>sync</find>
+      <find>com.dougwag.action.juc.MyRtThread</find>
+      <find>state</find>
+      <find>setState</find>
+      <find>tryAcquireShared</find>
+      <find>writeRequest</find>
+      <find>Because</find>
+      <find>Node</find>
+      <find>data</find>
+      <find>CollectionUtils</find>
+      <find>fc</find>
+      <find>socketChannel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MyRtThread2</replace>
+      <replace>ListNode</replace>
+      <replace>val</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/baidufile/Spring实战(第4版) /springshizhan/SpringiA4_SourceCode/Chapter_01/knight" value="PREVIEW" />
+        <entry key="$USER_HOME$/study_carry_out/java8/jdk8-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/dcstat/dcstat" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/fisco/evidenceSample/evidence" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/timechain/timechain" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/userprofile/user-profile-openapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/work/userprofileopenapi/user-profile-openapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/blockchain/sample-project-gradle" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/gradleMulti/gradle-multi-project-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/gradlespringboot/springboot-multi-gradle-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/hystrix_github_code/Hystrix" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/qkl/evidenceSample/evidence" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/sourceCode/spring-framework-4.2.0" value="PREVIEW" />
+        <entry key="$USER_HOME$/workStudy/springcode/Spring-framework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/proxy/Girl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/proxy/TeacherCang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/proxy/TeacherCang2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/proxy/CglibDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/proxy/CglibDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/designmode/Observable/ObserverSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/ioc/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/ioc/BeanDefinitionRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/GenericBeanDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinitionRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/PreBuildBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinitionRegistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/test/ABean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/test/ABeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/test/DefaultBeanFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/DefaultBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples/CBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds08/Blglq.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/GuavaFutureDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack05.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue03.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/DfDemoallOf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/CfDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientDaemon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientRequestThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketServer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketServer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nio/CopyFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/mmap/MappedByteBufferTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nio/SocketServer1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nio/SocketServer2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="iotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="iotest" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="iotest" type="462c0819:PsiDirectoryNode" />
+              <item name="nettyDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="NettyServer" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37356323" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wangjinyang/zxclass/myclass/java_advanced/javainaction/src/main/java/com/dougwag/action/lambda/HelloTest.java" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/samples" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/dougwag/action/thread" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.iotest.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.iotest.nio.NIOClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javainaction" />
+      <envs />
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.iotest.nettyDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.iotest.nettyDemo.NettyClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javainaction" />
+      <envs />
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.iotest.nettyDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.iotest.nettyDemo.NettyServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javainaction" />
+      <envs />
+    </configuration>
+    <configuration name="SocketClientDaemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.iotest.bio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.iotest.bio.SocketClientDaemon" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javainaction" />
+      <envs />
+    </configuration>
+    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.iotest.aio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.iotest.aio.SocketServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javainaction" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.SocketClientDaemon" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SocketServer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.NIOClient" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NettyServer" />
+      <item index="4" class="java.lang.String" itemvalue="Application.NettyClient" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.NettyClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.NettyServer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SocketClientDaemon" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SocketServer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.NIOClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21db73b9-8184-4400-b3f2-1bbc86580ce6" name="Default" comment="" />
+      <created>1582625969202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582625969202</updated>
+      <workItem from="1582625973733" duration="13326000" />
+      <workItem from="1582707392730" duration="11572000" />
+      <workItem from="1582777239301" duration="3174000" />
+      <workItem from="1582792504489" duration="6242000" />
+      <workItem from="1583052628289" duration="8731000" />
+      <workItem from="1583130763700" duration="20000" />
+      <workItem from="1583140444175" duration="7958000" />
+      <workItem from="1583209110258" duration="8114000" />
+      <workItem from="1583242916884" duration="17596000" />
+      <workItem from="1583381314135" duration="285000" />
+      <workItem from="1583382257174" duration="2575000" />
+      <workItem from="1583393979874" duration="2713000" />
+      <workItem from="1583420566724" duration="1625000" />
+      <workItem from="1583468760190" duration="164000" />
+      <workItem from="1583471919624" duration="5122000" />
+      <workItem from="1583509867905" duration="2052000" />
+      <workItem from="1583732131472" duration="7122000" />
+      <workItem from="1583748214334" duration="8319000" />
+      <workItem from="1583833888396" duration="227000" />
+      <workItem from="1584325456167" duration="2690000" />
+      <workItem from="1584332440432" duration="13000" />
+      <workItem from="1584336943750" duration="325000" />
+      <workItem from="1584355483577" duration="5828000" />
+      <workItem from="1584443268791" duration="181000" />
+      <workItem from="1584457477736" duration="982000" />
+      <workItem from="1584505309455" duration="11855000" />
+      <workItem from="1584615706312" duration="5499000" />
+      <workItem from="1584673231468" duration="7704000" />
+      <workItem from="1584955525061" duration="9361000" />
+      <workItem from="1585016180196" duration="2163000" />
+      <workItem from="1585028314922" duration="11828000" />
+      <workItem from="1585045811192" duration="345000" />
+      <workItem from="1585046341659" duration="3287000" />
+      <workItem from="1585061809621" duration="251000" />
+      <workItem from="1585100851758" duration="53000" />
+      <workItem from="1585105489420" duration="8801000" />
+      <workItem from="1585219757667" duration="1297000" />
+      <workItem from="1585373200432" duration="458000" />
+      <workItem from="1585374401493" duration="6862000" />
+      <workItem from="1585560324990" duration="6305000" />
+      <workItem from="1585795005945" duration="3059000" />
+      <workItem from="1585813543315" duration="2600000" />
+      <workItem from="1585825130223" duration="598000" />
+      <workItem from="1585834452662" duration="2428000" />
+      <workItem from="1585896094126" duration="596000" />
+      <workItem from="1585921133815" duration="147000" />
+      <workItem from="1586080870398" duration="3000" />
+      <workItem from="1586088312761" duration="11000" />
+      <workItem from="1586143420595" duration="2102000" />
+      <workItem from="1586311133608" duration="2667000" />
+      <workItem from="1586429663148" duration="5604000" />
+      <workItem from="1586506112058" duration="6991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DefaultBeanFactoryTest_testRegist - 2020.03.28 at 20h 55m 57s.xml">
+      <configuration name="DefaultBeanFactoryTest.testRegist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DefaultBeanFactoryTest_testRegistStaticFactoryMethod - 2020.03.28 at 20h 56m 55s.xml">
+      <configuration name="DefaultBeanFactoryTest.testRegistStaticFactoryMethod" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="219831000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Jelastic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.286578" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30108827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5973398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2274678" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Word Book" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Jelastic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39920557" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11889973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44365573" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/invoke/InnerClassLambdaMetafactory.java</url>
+          <line>249</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1894</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/Cf.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1705</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinPool.java</url>
+          <line>3301</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1728</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>344</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1296</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>2224</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1306</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>2243</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1551</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java</url>
+          <line>1552</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReentrantLock.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReentrantLock.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwag/action/juc/myself/MyReentrantLock.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/ext/QuickSort.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/ext/QuickSort.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/ext/QuickSort.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/ext/QuickSort.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry02.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry02.java</url>
+          <line>161</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry02.java</url>
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry02.java</url>
+          <line>172</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds02/Arry02.java</url>
+          <line>181</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOServer.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOClient.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="81" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>getState()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>n &gt;&gt;&gt; 2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds08/Blglq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.0-jre/guava-28.0-jre.jar!/com/google/common/util/concurrent/FutureCallback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.0-jre/guava-28.0-jre.jar!/com/google/common/util/concurrent/Futures.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="240" column="17" lean-forward="false" selection-start-line="240" selection-start-column="17" selection-end-line="240" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/GuavaFutureDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="158" column="17" lean-forward="true" selection-start-line="158" selection-start-column="17" selection-end-line="158" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/test/JavaFutureDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2600">
+          <caret line="130" column="27" lean-forward="false" selection-start-line="130" selection-start-column="27" selection-end-line="130" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="49" lean-forward="false" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="118" column="22" lean-forward="false" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds03/Stack05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/OldAsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/DfDemoallOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds04/Queue03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="75" column="25" lean-forward="false" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/CfDemoanyOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="39" column="67" lean-forward="false" selection-start-line="39" selection-start-column="62" selection-end-line="39" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/CfDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4260">
+          <caret line="223" column="0" lean-forward="false" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="7" lean-forward="false" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/base/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/completableFuture/Cf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43080">
+          <caret line="2231" column="16" lean-forward="false" selection-start-line="2231" selection-start-column="16" selection-end-line="2231" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="254" column="31" lean-forward="false" selection-start-line="254" selection-start-column="31" selection-end-line="254" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/workStudy/tool/jdk-687fd7c7986d.zip!/jdk-687fd7c7986d/test/java/net/ServerSocket/AcceptCauseFileDescriptorLeak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="511" column="38" lean-forward="false" selection-start-line="511" selection-start-column="38" selection-end-line="511" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/SocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="43" column="50" lean-forward="false" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/SocketOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="47" column="7" lean-forward="false" selection-start-line="47" selection-start-column="7" selection-end-line="47" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/PlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="104" column="16" lean-forward="false" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/AbstractPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="709" column="18" lean-forward="false" selection-start-line="709" selection-start-column="18" selection-end-line="709" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/DatagramSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/workStudy/tool/jdk-687fd7c7986d.zip!/jdk-687fd7c7986d/src/windows/classes/java/net/DualStackPlainSocketImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5120">
+          <caret line="284" column="16" lean-forward="false" selection-start-line="284" selection-start-column="16" selection-end-line="284" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#9776#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4860">
+          <caret line="267" column="0" lean-forward="false" selection-start-line="267" selection-start-column="0" selection-end-line="267" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/RandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5080">
+          <caret line="278" column="29" lean-forward="false" selection-start-line="278" selection-start-column="29" selection-end-line="278" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/workStudy/tool/jdk-687fd7c7986d.zip!/jdk-687fd7c7986d/src/share/classes/sun/nio/ch/FileChannelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15500">
+          <caret line="807" column="28" lean-forward="false" selection-start-line="807" selection-start-column="28" selection-end-line="807" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17620">
+          <caret line="917" column="0" lean-forward="false" selection-start-line="917" selection-start-column="0" selection-end-line="917" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="65" column="54" lean-forward="false" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nio/CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="46" column="17" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketServer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketServer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/mmap/MappedByteBufferTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nio/SocketServer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="114" column="41" lean-forward="false" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nio/SocketServer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="198" column="39" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1302#1326#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/nio/channels/CompletionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="463" column="0" lean-forward="false" selection-start-line="463" selection-start-column="0" selection-end-line="463" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientRequestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nio/NIOClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/aio/SocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/bio/SocketClientDaemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37356323" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javainaction</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba.nacos:nacos-api:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37356323" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
