@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21db73b9-8184-4400-b3f2-1bbc86580ce6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree09.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree03.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree03.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,24 +23,22 @@
       <file leaf-file-name="Tree02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="99">
               <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#843#853#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree09.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tree09.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree09.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+            <state relative-caret-position="660">
+              <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#404#413#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,9 +47,12 @@
       <file leaf-file-name="Tree03.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="60" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-              <folding />
+            <state relative-caret-position="395">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#605#615#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,18 +60,18 @@
       <file leaf-file-name="Tree04.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+            <state relative-caret-position="180">
+              <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tree05.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Tree05.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree05.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -75,9 +80,11 @@
       <file leaf-file-name="Tree06.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="-248">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,8 +92,8 @@
       <file leaf-file-name="Tree07.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="360">
+              <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -95,8 +102,8 @@
       <file leaf-file-name="Tree08.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -200,9 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/GenericBeanDefinition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinitionRegistry.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/PreBuildBeanFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/BeanDefinitionRegistException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/aboutspring/sourcecode/beans/test/ABean.java" />
@@ -248,9 +252,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds05/Heap03.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree09.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree03.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree09.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java" />
       </list>
     </option>
   </component>
@@ -266,10 +273,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -342,6 +348,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -394,12 +401,21 @@
               <item name="algorithm_and_datastructure" type="462c0819:PsiDirectoryNode" />
               <item name="ds06" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_and_datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="ds08" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
@@ -703,7 +719,10 @@
       <workItem from="1586863590089" duration="2074000" />
       <workItem from="1586937783195" duration="711000" />
       <workItem from="1586939315799" duration="95000" />
-      <workItem from="1586952459201" duration="3996000" />
+      <workItem from="1586952459201" duration="4057000" />
+      <workItem from="1587034621589" duration="63000" />
+      <workItem from="1587089226401" duration="15000" />
+      <workItem from="1587279752035" duration="2400000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1586668377462</created>
@@ -740,7 +759,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586955253062</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="验证二叉搜索树 中序遍历">
+      <created>1587003485660</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587003485660</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -752,10 +778,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235877000" />
+    <option name="totallyTimeSpent" value="238416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -774,11 +800,11 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30108827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30108827" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5973398" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24606581" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -839,7 +865,8 @@
     <MESSAGE value="algothrithm 算法" />
     <MESSAGE value="heap 堆" />
     <MESSAGE value="树" />
-    <option name="LAST_COMMIT_MESSAGE" value="树" />
+    <MESSAGE value="验证二叉搜索树 中序遍历" />
+    <option name="LAST_COMMIT_MESSAGE" value="验证二叉搜索树 中序遍历" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1290,13 +1317,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iotest/nettyDemo/NettyClient.java">
@@ -1436,7 +1463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1444,7 +1470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1452,7 +1477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="100" column="4" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1460,34 +1484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-          <folding>
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1507,49 +1503,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree09.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="60" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        <state relative-caret-position="395">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#605#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="47" lean-forward="false" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree08.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree05.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="11" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#843#853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds06/Tree09.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#404#413#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
