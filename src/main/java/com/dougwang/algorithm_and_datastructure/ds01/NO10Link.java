@@ -62,19 +62,19 @@ public class NO10Link {
      * @return
      */
     public static int CircleLength(ListNode first) {
-        ListNode fast = first;
         ListNode slow = first;
+        ListNode fast = first;
         while ((fast != null) && (fast.next != null)) {
             slow = slow.next;
             fast = fast.next.next;
-            while (fast == slow) {
+            if (fast == slow) {
                 int len = 1;
                 slow = slow.next;
                 fast = fast.next.next;
                 while (fast != slow) {
                     len++;
-                    fast = fast.next.next;
                     slow = slow.next;
+                    fast = fast.next.next;
                 }
                 return len;
             }
