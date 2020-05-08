@@ -32,7 +32,9 @@ public class NO11Link {
         n6.next = n7;
         n7.next = n8;
 
-        IsPoint(n1, n5);
+        if (IsPoint(n1, n5)){
+            System.out.println("有交点");
+        }
     }
 
 

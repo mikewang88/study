@@ -36,23 +36,23 @@ public class NO10Link {
      * @return 头节点---》入环点 = 相遇点--》遇环点
      */
     public static ListNode enterCycleNode(ListNode head) {
-        ListNode p1 = head;
-        ListNode p2 = head;
-        while (p2 != null && p2.next != null) {
-            p1 = p1.next;
-            p2 = p2.next.next;
-            if (p1 == p2){
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+            if (slow == fast){
                 System.out.println("说明有环");
-                p1 = head;
-                while (p1!=p2){
-                    p1 = p1.next;
-                    p2 = p2.next;
+                slow = head;
+                while (slow!=fast){
+                    slow = slow.next;
+                    fast = fast.next;
                 }
-                System.out.println("入环点："+p1.val);
+                System.out.println("入环点："+slow.val);
                 break;
             }
         }
-        return p1;
+        return slow;
     }
 
     /**

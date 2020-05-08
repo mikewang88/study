@@ -1,5 +1,7 @@
 package com.dougwang.algorithm_and_datastructure.ds01;
 
+import java.util.List;
+
 /**
  * @Author: MikeWang
  * @Date: 2020/3/16 10:59 PM
@@ -19,11 +21,29 @@ public class NO4Link {
         n3.next = n4;
         n4.next = n5;
         //每k个反转链表
-        ListNode node = reverseGroup2(n1, 3);
+        ListNode node = reverseGroup3(n1, 3);
         while (node != null) {
             System.out.print(node.val + " ");
             node = node.next;
         }
+    }
+
+    public static ListNode reverseGroup3(ListNode head, int k){
+        if (head==null || head.next==null ||k<=1){
+            return head;
+        }
+        ListNode currentNode = head;
+        while (k-->1){
+            currentNode = currentNode.next;
+            if (currentNode==null){
+                return head;
+            }
+        }
+        ListNode next = currentNode.next;
+        reverse(head,currentNode);
+        head.next = reverseGroup3(next,k);
+        return currentNode;
+
     }
 
     //不停地取k个进行翻转，如果不够k个，就直接返回,结束
@@ -74,7 +94,8 @@ public class NO4Link {
             currentNode = currentNode.next;
             //不够K个则返回
             if (currentNode == null) {
-                flag = true;
+                //flag = true;
+                return head;
             }
             //return head;
         }
