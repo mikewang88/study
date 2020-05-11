@@ -2,39 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21db73b9-8184-4400-b3f2-1bbc86580ce6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/AOPAppConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/AOPMainApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/AspectAdviceBeanUseAnnotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/BeanQ.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/MyArroundAdvice.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/MyBeforeAdvice.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/TestAspect.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/aop/TestBean.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/autowiredDesign/AppConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/autowiredDesign/MainApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/autowiredDesign/OrderService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/autowiredDesign/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/autowiredDesign/impl/OrderServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/aboutspring/autowiredDesign/impl/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/TestStatic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/LinkListDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/Array.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/GenericArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBaseLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBasedArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linklist07/LinkedListAlgo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/stack/SampleBrowser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/stack/StackBasedOnLinkedList.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/javainaction.iml" afterPath="$PROJECT_DIR$/javainaction.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO7Link.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO7Link.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/cyclicbarrier/CyclicBarrierDemo$1.class" afterPath="$PROJECT_DIR$/target/classes/com/dougwag/action/juc/tool/cyclicbarrier/CyclicBarrierDemo$1.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.class" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.class" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO7Link.class" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO7Link.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java" afterPath="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.class" afterPath="$PROJECT_DIR$/target/classes/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,39 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LRUBasedArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LRUBasedArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBasedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-              <folding>
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#2079#2080#0" expanded="true" />
-                <element signature="e#2128#2129#0" expanded="true" />
-                <element signature="e#2160#2161#0" expanded="true" />
-                <element signature="e#2193#2194#0" expanded="true" />
-                <element signature="e#2224#2225#0" expanded="true" />
-                <element signature="e#2264#2265#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NO11Link.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NO10Link.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="72" column="38" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="38" />
+            <state relative-caret-position="460">
+              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -88,69 +34,26 @@
       <file leaf-file-name="NO12Link.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO12Link.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="2320">
+              <caret line="116" column="28" lean-forward="false" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/base/Test.java">
+      <file leaf-file-name="LRUBaseLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBaseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PassByValueExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/PassByValueExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="1620">
+              <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
               <folding>
-                <element signature="e#1074#1075#0" expanded="true" />
-                <element signature="e#1106#1107#0" expanded="true" />
+                <element signature="e#2929#2930#0" expanded="true" />
+                <element signature="e#2969#2970#0" expanded="true" />
+                <element signature="e#3165#3166#0" expanded="true" />
+                <element signature="e#3200#3201#0" expanded="true" />
+                <element signature="e#3243#3244#0" expanded="true" />
+                <element signature="e#3283#3284#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestStatic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/TestStatic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-              <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#261#262#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/GenericArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="151" column="5" lean-forward="false" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -158,8 +61,68 @@
       <file leaf-file-name="Array.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1190">
-              <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="16" />
+            <state relative-caret-position="660">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/GenericArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2700">
+              <caret line="151" column="5" lean-forward="false" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SinglyLinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="212" column="56" lean-forward="false" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Agthm06.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NO4Link.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-578">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NO1PrintListFromTailToHead.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO1PrintListFromTailToHead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="602">
+              <caret line="105" column="5" lean-forward="true" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NO6Link.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -178,7 +141,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Because</find>
       <find>Node</find>
       <find>data</find>
       <find>CollectionUtils</find>
@@ -208,6 +170,7 @@
       <find>invoke</find>
       <find>proceed</find>
       <find>wrapIfNecessary</find>
+      <find>回文</find>
     </findStrings>
     <replaceStrings>
       <replace>MyRtThread2</replace>
@@ -244,14 +207,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds10/ds1001.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds10/ds1002.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm01/agthm01.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm02/Agthm02.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm03/Agthm03.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm04/Agthm04.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm05/Agthm05.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm01/Agthm01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds05/Heap02.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds05/Heap03.java" />
@@ -295,6 +253,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dougwag/action/base/parameter_pass/TestStatic.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBasedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linklist07/LinkedListAlgo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/stack/SampleBrowser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO1PrintListFromTailToHead.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java" />
       </list>
     </option>
   </component>
@@ -427,16 +390,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="aboutspring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="action" type="462c0819:PsiDirectoryNode" />
+              <item name="dougwang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
@@ -446,6 +400,41 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dougwang" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_and_datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dougwang" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_and_datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="agthm06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dougwang" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_and_datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="agthm06" type="462c0819:PsiDirectoryNode" />
+              <item name="Agthm06" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dougwang" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm_and_datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="ds01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
@@ -456,17 +445,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dougwang" type="462c0819:PsiDirectoryNode" />
               <item name="beautyofds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javainaction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dougwang" type="462c0819:PsiDirectoryNode" />
-              <item name="beautyofds" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javainaction" type="b2602c69:ProjectViewProjectNode" />
@@ -483,10 +461,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,11 +480,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/stack" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linklist07" />
       <recent name="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist" />
       <recent name="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/05_array" />
       <recent name="$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/aboutspring/aop" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -521,21 +499,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NO11Link">
+  <component name="RunManager" selected="Application.Agthm06">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="AOPMainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Agthm06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.aboutspring.aop.*" />
+          <option name="PATTERN" value="com.dougwang.algorithm_and_datastructure.agthm06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.aboutspring.aop.AOPMainApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.dougwang.algorithm_and_datastructure.agthm06.Agthm06" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -547,33 +525,14 @@
       <module name="javainaction" />
       <envs />
     </configuration>
-    <configuration name="LRUBasedArray$TestLRUBasedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LRUBaseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.dougwang.beautyofds.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dougwang.beautyofds.linkedlist.LRUBasedArray$TestLRUBasedArray" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="javainaction" />
-      <envs />
-    </configuration>
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.aboutspring.autowiredDesign.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.aboutspring.autowiredDesign.MainApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.dougwang.beautyofds.linkedlist.LRUBaseLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -593,6 +552,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.dougwang.algorithm_and_datastructure.ds01.NO11Link" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javainaction" />
+      <envs />
+    </configuration>
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dougwang.beautyofds.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dougwang.beautyofds.linkedlist.SinglyLinkedList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -698,19 +676,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MainApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AOPMainApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LRUBasedArray$TestLRUBasedArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestStatic" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NO11Link" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestStatic" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NO11Link" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LRUBaseLinkedList" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SinglyLinkedList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Agthm06" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NO11Link" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestStatic" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LRUBasedArray$TestLRUBasedArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AOPMainApplication" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainApplication" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Agthm06" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SinglyLinkedList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LRUBaseLinkedList" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NO11Link" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestStatic" />
       </list>
     </recent_temporary>
   </component>
@@ -804,7 +782,11 @@
       <workItem from="1588651968649" duration="1642000" />
       <workItem from="1588683664217" duration="650000" />
       <workItem from="1588758559807" duration="7588000" />
-      <workItem from="1588843905897" duration="7002000" />
+      <workItem from="1588843905897" duration="10158000" />
+      <workItem from="1588929239742" duration="6000" />
+      <workItem from="1588941068849" duration="1663000" />
+      <workItem from="1589186430107" duration="428000" />
+      <workItem from="1589186927378" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1586668377462</created>
@@ -862,7 +844,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587625849152</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="数据结构和算法之美">
+      <created>1588905954194</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588905954194</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -874,7 +863,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294407000" />
+    <option name="totallyTimeSpent" value="301950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-374" y="-1200" width="1920" height="1200" extended-state="0" />
@@ -891,29 +880,29 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2857143" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3345164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26613703" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26530612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59682226" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21991481" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2284345" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -965,7 +954,8 @@
     <MESSAGE value="验证二叉搜索树 中序遍历" />
     <MESSAGE value="树的相关操作" />
     <MESSAGE value="链表环的相关操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表环的相关操作" />
+    <MESSAGE value="数据结构和算法之美" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据结构和算法之美" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1606,11 +1596,29 @@
           <properties />
           <option name="timeStamp" value="155" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="157" />
+      <option name="time" value="160" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1629,24 +1637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE-sources.jar!/org/springframework/aop/framework/DefaultAopProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#2686#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20400">
-          <caret line="1135" column="5" lean-forward="false" selection-start-line="1135" selection-start-column="5" selection-end-line="1135" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.8.RELEASE/spring-aop-5.1.8.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3560">
@@ -1688,13 +1678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO14Link.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1713,7 +1696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1747,26 +1729,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO1PrintListFromTailToHead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO5Link.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1831,7 +1797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1880,27 +1845,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO2Link.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1908,15 +1856,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBaseLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1924,7 +1863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1932,7 +1870,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1940,7 +1877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1948,10 +1884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#1074#1075#0" expanded="true" />
-            <element signature="e#1106#1107#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1959,29 +1891,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/GenericArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linklist07/LinkedListAlgo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="151" column="5" lean-forward="false" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+        <state relative-caret-position="2180">
+          <caret line="109" column="7" lean-forward="false" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/stack/SampleBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1989,40 +1913,103 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO10Link.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
-          <caret line="72" column="38" lean-forward="true" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO12Link.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <caret line="72" column="38" lean-forward="false" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO11Link.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        <state relative-caret-position="1060">
+          <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO12Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="116" column="28" lean-forward="false" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/array/GenericArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="151" column="5" lean-forward="false" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBaseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+          <folding>
+            <element signature="e#2929#2930#0" expanded="true" />
+            <element signature="e#2969#2970#0" expanded="true" />
+            <element signature="e#3165#3166#0" expanded="true" />
+            <element signature="e#3200#3201#0" expanded="true" />
+            <element signature="e#3243#3244#0" expanded="true" />
+            <element signature="e#3283#3284#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/LRUBasedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#2079#2080#0" expanded="true" />
-            <element signature="e#2128#2129#0" expanded="true" />
-            <element signature="e#2160#2161#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-            <element signature="e#2224#2225#0" expanded="true" />
-            <element signature="e#2264#2265#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="460">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO6Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO1PrintListFromTailToHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="105" column="5" lean-forward="true" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/ds01/NO4Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/beautyofds/linkedlist/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="212" column="56" lean-forward="false" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dougwang/algorithm_and_datastructure/agthm06/Agthm06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
