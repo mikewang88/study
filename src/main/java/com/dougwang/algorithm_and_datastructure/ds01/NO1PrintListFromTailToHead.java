@@ -27,18 +27,18 @@ public class NO1PrintListFromTailToHead {
         node1.next = node2;
         node2.next = node3;
         node3.next = node4;
-        printListFromTailToHead(node1);
-        printListFromTailToHead(node5);
-        printListFromTailToHead(node6);
-        printListFromTailToHead(node7);
-        //使用栈实现逆序打印链表
-        printListFromTailToHeadByStack(node1);
-        //使用递归实现逆序打印链表
-        printListFromTailToHead(node1);
+//        printListFromTailToHead(node1);
+//        printListFromTailToHead(node5);
+//        printListFromTailToHead(node6);
+//        printListFromTailToHead(node7);
+//        //使用栈实现逆序打印链表
+//        printListFromTailToHeadByStack(node1);
+//        //使用递归实现逆序打印链表
+//        printListFromTailToHead(node1);
         //使用递归反转实现逆序打印
         printListFromTailToHeadByReverseList(node1);
         //使用ArrayList逆序打印链表
-        printListFromTailToHeadByArrayList(node1);
+//        printListFromTailToHeadByArrayList(node1);
     }
 
     /*
@@ -95,14 +95,25 @@ public class NO1PrintListFromTailToHead {
         }
 
     }
-    //递归反转
+//    //递归反转
+//    private static ListNode reverse(ListNode head){
+//        if(head.next==null)
+//            return head;
+//        ListNode reversedListNode=reverse(head.next);
+//        head.next.next=head;
+//        head.next=null;
+//        return reversedListNode;
+//    }
     private static ListNode reverse(ListNode head){
-        if(head.next==null)
-            return head;
-        ListNode reversedListNode=reverse(head.next);
-        head.next.next=head;
-        head.next=null;
-        return reversedListNode;
+        ListNode pre = null;
+        ListNode post = null;
+        while (head!=null){
+            post = head.next;
+            head.next =pre;
+            pre = head;
+            head = post;
+        }
+        return pre;
     }
 
 

@@ -11,5 +11,6 @@ import java.util.LinkedHashMap;
 public class LinkListDemo {
     public static void main(String[] args) {
         LinkedHashMap linkedHashMap =  new LinkedHashMap();
+        System.out.println(System.nanoTime());
     }
 }

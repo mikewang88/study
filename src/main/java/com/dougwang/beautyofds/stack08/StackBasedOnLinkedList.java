@@ -1,4 +1,4 @@
-package com.dougwang.beautyofds.stack;
+package com.dougwang.beautyofds.stack08;
 
 /**
  * 基于链表实现的栈。

@@ -1,4 +1,4 @@
-package com.dougwang.beautyofds.stack;
+package com.dougwang.beautyofds.stack08;
 
 /**
  * 使用前后栈实现浏览器的前进后退。

@@ -21,7 +21,7 @@ public class leetCode1115 {
         for (int i = 0; i < n; i++) {
             foo.acquire();
             // printFoo.run() outputs "foo". Do not change or remove this line.
-            System.out.print("foo");
+            System.out.println("foo");
             bar.release();
         }
     }

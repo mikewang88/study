@@ -17,7 +17,7 @@ import java.util.stream.Stream;
  */
 public class CfDemo {
     public static void main(String[] args) {
-        allOfList();
+        acceptEither();
     }
 
     public static void completableDemo(){

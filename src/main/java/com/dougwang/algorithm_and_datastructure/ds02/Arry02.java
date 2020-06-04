@@ -54,12 +54,12 @@ class QuickSort {
         return end;
     }
 
+
     private static void swap(int[] a, int start, int end) {
         int temp = a[start];
         a[start] = a[end];
         a[end] = temp;
     }
-
     // 排序
     public static void quicksort(int[] a, int start, int end) {
         if (start >= end) {
@@ -72,6 +72,8 @@ class QuickSort {
             quicksort(a, partition + 1, end);
         }
     }
+
+
 
     public static void main(String[] args) {
 
@@ -159,12 +161,15 @@ class QuickSortMajor {
 //https://www.cnblogs.com/chengxiao/p/6194356.html#4516460
 class MergeSort {
     public static void main(String[] args) {
-        int[] arr = {9, 8, 7, 6};
-        sort(arr);
+        int t =0;
+        System.out.println(t++);
+        System.out.println(t);
+        int[] arr = {8, 9, 7, 6,10};
+        sortArry(arr);
         System.out.println(Arrays.toString(arr));
     }
 
-    public static void sort(int[] arr) {
+    public static void sortArry(int[] arr) {
         int[] temp = new int[arr.length];//在排序前，先建好一个长度等于原数组长度的临时数组，避免递归中频繁开辟空间
         sort(arr, 0, arr.length - 1, temp);
     }
