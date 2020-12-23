@@ -28,6 +28,21 @@
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:4.0.0" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:28.1-jre" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.18" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.9.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.1.8.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.4.Final" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-client:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.nacos:nacos-common:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: commons-io:commons-io:2.2" level="project" />

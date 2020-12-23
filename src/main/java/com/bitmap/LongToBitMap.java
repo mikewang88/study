@@ -119,4 +119,12 @@ public class LongToBitMap {
         return bitMap;
     }
 
+    public static void main(String[] args) {
+        LongToBitMap longToBitMap = new LongToBitMap();
+        longToBitMap.addLongToBit(15825502028l);
+//        longToBitMap.addLongToBit(15825501111l);
+//        longToBitMap.addLongToBit(15825501234l);
+//        longToBitMap.addLongToBit(15825502028l);
+    }
+
 }
