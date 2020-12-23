@@ -55,7 +55,7 @@ class MedianFinder {
 
     public static void main(String[] args) {
         MedianFinder medianFinder = new MedianFinder();
-        List<Integer> list = Arrays.asList(1,2,3,4);
+        List<Integer> list = Arrays.asList(1,2,3,4,5,6,7);
         list.forEach(e->medianFinder.addNum(e));
         System.out.println(medianFinder.findMedian());
     }

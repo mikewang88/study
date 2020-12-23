@@ -23,6 +23,7 @@ class TreeNode {
 public class Queue02 {
     //深度优先
     private static List<Integer> dfsresult = new ArrayList<>();
+
     public static List<Integer> DFSByRecursion(TreeNode root) {
         if (root == null) {
             return null;
@@ -104,7 +105,7 @@ public class Queue02 {
         treeNode7.left = treeNode11;
         treeNode7.right = treeNode12;
 
-        List<Integer> result = BFSByQueue(treeNode);
+        List<Integer> result = DFSByRecursion(treeNode);
 
         Iterator<Integer> iterator = result.iterator();
         while (iterator.hasNext()) {

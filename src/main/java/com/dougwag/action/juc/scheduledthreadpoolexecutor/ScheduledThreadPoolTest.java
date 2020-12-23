@@ -15,12 +15,24 @@ public class ScheduledThreadPoolTest {
         // 创建大小为5的线程池
         ScheduledExecutorService scheduledThreadPool = Executors.newScheduledThreadPool(5);
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 1; i++) {
             Task worker = new Task("task-" + i);
             // 只执行一次
 //          scheduledThreadPool.schedule(worker, 5, TimeUnit.SECONDS);
             // 周期性执行，每5秒执行一次
             scheduledThreadPool.scheduleAtFixedRate(worker, 0,5, TimeUnit.SECONDS);
+        }
+
+        for (int i = 0; i < 1; i++) {
+            Task worker = new Task("scheduleWithFixedDelay-task-" + i);
+            // 只执行一次
+//          scheduledThreadPool.schedule(worker, 5, TimeUnit.SECONDS);
+            // 周期性执行，每5秒执行一次
+            scheduledThreadPool.scheduleWithFixedDelay(worker, 0,5, TimeUnit.SECONDS);
+
+            Task worker2 = new Task("schedule-task-" + i);
+            scheduledThreadPool.schedule(worker2,5,TimeUnit.SECONDS);
+
         }
 
         Thread.sleep(10000);

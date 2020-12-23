@@ -12,6 +12,9 @@ import java.util.concurrent.TimeUnit;
  * @Description:
  */
 public class NettyWheelTimer {
+    public static  DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+   public static HashedWheelTimer hashedWheelTimer = new HashedWheelTimer(100, TimeUnit.MILLISECONDS);
+
     public static void main(String[] args) {
 //        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
 //        HashedWheelTimer hashedWheelTimer = new HashedWheelTimer(100, TimeUnit.MILLISECONDS);
@@ -26,20 +29,21 @@ public class NettyWheelTimer {
 //        }
 
 
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
-        HashedWheelTimer hashedWheelTimer = new HashedWheelTimer(100, TimeUnit.MILLISECONDS);
         System.out.println("start:" + LocalDateTime.now().format(formatter));
         hashedWheelTimer.newTimeout(timeout -> {
             Thread.sleep(3000);
             System.out.println("task1:" + LocalDateTime.now().format(formatter));
         }, 3, TimeUnit.SECONDS);
-        hashedWheelTimer.newTimeout(timeout -> System.out.println("task2:" + LocalDateTime.now().format(
-                formatter)), 4, TimeUnit.SECONDS);
+        hashedWheelTimer.newTimeout(timeout -> System.out.println(getStr("task2:")), 4, TimeUnit.SECONDS);
         try {
             Thread.sleep(10000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
 
+    }
+
+    public static String getStr(String ss){
+        return ss+LocalDateTime.now().format(formatter);
     }
 }

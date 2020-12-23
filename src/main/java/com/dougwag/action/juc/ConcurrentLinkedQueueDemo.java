@@ -1,5 +1,9 @@
 package com.dougwag.action.juc;
+import java.util.Random;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
+import java.util.concurrent.ConcurrentSkipListMap;
+
 /**
  * @Author: MikeWang
  * @Date: 2020/3/9 6:47 PM
@@ -51,6 +55,22 @@ public class ConcurrentLinkedQueueDemo {
 
         p1.start();
         g1.start();
+
+        //        Collections.synchronizedMap(Map);
+//        ConcurrentHashMap
+        ConcurrentSkipListMap hashMap =new ConcurrentSkipListMap();
+        Random r = new Random();
+        for (int i=0;i<70;i++){
+            int flag = r.nextInt(100);
+            hashMap.put(flag,flag);
+            System.out.println(flag);
+        }
+
+        System.out.println("============");
+
+        hashMap.forEach((key,v)->{
+            System.out.println(key);
+        });
 
     }
 }

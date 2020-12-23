@@ -24,7 +24,7 @@ public class TestStatic {
 
     public static void main(String[] args) {
         B b = new B();
-        b.scan();  //我的输出结果是什么？
+        b.scan();  //我的输出结果是什么？ B.doScan
     }
 }
 

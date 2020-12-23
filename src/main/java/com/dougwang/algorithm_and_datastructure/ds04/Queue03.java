@@ -54,7 +54,7 @@ class Solution {
 
         // 滑动窗口最左边数的index
         int begin;
-        // 建立一个双端队列
+        // 建立一个双端队列 存数组下标
         ArrayDeque<Integer> q = new ArrayDeque<>();
         for(int i=0;i<num.length;i++){
             // begin是窗口起始位置
@@ -83,7 +83,7 @@ class Solution {
 
     public static void main(String[] args) {
         int[] num = new int[]{2,3,4,2,6,2,5,1};
-        ArrayList<Integer> list = maxInWindows2(num,3);
+        ArrayList<Integer> list = maxInWindows(num,3);
         for (Integer max:list){
             System.out.println(max);
             //System.out.println(num[max]);

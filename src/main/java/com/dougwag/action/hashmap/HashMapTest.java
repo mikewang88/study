@@ -20,7 +20,7 @@ public class HashMapTest {
         int threshold_begin = (int) field.get(hashMap);
         System.out.println("初始值："+threshold_begin);
         int threshold = 0;
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 20; i++) {
             hashMap.put(String.valueOf(i), 0);
             if ((int) field.get(hashMap) != threshold) {
                 threshold = (int) field.get(hashMap);
@@ -28,6 +28,7 @@ public class HashMapTest {
                 // 默认的负载因子是0.75,也就是说实际容量是/0.75
                 System.out.println((int) field.get(hashMap) / 0.75);
             }
+            hashMap.get("2");
         }
     }
 }

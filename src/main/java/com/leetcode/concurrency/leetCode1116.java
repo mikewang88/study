@@ -52,7 +52,7 @@ class ZeroEvenOdd {
         {
             s1.acquire();
            // printNumber.accept(i);
-            System.out.print(i);
+            System.out.print("--"+i);
             s.release();
         }
     }

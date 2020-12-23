@@ -40,13 +40,14 @@ public class Main {
                     s -> {
                         System.out.println("2");
                         try {
-                            Thread.sleep(5000);
+                            Thread.sleep(1000);
                         } catch (InterruptedException e) {
                             e.printStackTrace();
                         }
+                        System.out.println("3");
                         return s + " 2";
                     });
-        TimerTask timerTask2 = new TimerTask(3000, new MyThread(base));
+        TimerTask timerTask2 = new TimerTask(1000, new MyThread(base));
         timer.addTask(timerTask2);
         System.out.println("===================");
         System.out.println("base.get==="+base.get());

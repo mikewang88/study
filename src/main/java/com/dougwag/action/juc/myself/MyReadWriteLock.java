@@ -26,7 +26,7 @@ public class MyReadWriteLock {
     private int GetReadCount(){
         return state >>> 16;
     }
-    // 2. state低16位为读锁数量
+    // 2. state低16位为写锁数量
     private int GetWriteCount(){
         return state & ((1 << 16) - 1);
     }

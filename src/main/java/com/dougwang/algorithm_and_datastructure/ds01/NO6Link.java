@@ -46,7 +46,6 @@ public class NO6Link {
                 }
                 cur = cur.next;
             }
-
             tail = cur;  //下一次遍历的尾结点是当前结点(仔细琢磨一下里面的道道)
             cur = head;     //遍历起始结点重置为头结点
         }
@@ -71,7 +70,6 @@ public class NO6Link {
 
     public static ListNode partion(ListNode head, ListNode end) {
         ListNode p1 = head, p2 = head.next;
-
         //走到末尾才停
         while (p2 != end) {
 

@@ -130,6 +130,6 @@ class BothStackShareMemory {
         memory.push(1,111);
         memory.push(2,222);
         System.out.println(memory.pop(1,null));
-        System.out.println(memory.pop(1,null));
+        System.out.println(memory.pop(2,null));
     }
 }
