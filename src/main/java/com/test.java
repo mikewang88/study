@@ -40,6 +40,25 @@ public class test {
 
     }
 
+    public String longestCommonPrefix(String[] strs) {
+        if (strs == null || strs.length == 0) {// 如果数组为空
+            return "";
+        }
+        int length = strs[0].length();//第一个元素的长度
+        int count = strs.length;//数组的长度
+        for (int i = 0; i < length; i++) {//循环第一个的长度
+            char c = strs[0].charAt(i);//取出i位置的元素
+            for (int j = 1; j < count; j++) {//从数组第二个位置开始循环
+                //
+                if (i == strs[j].length() || strs[j].charAt(i) != c) {
+                    return strs[0].substring(0, i);
+                }
+            }
+        }
+        return strs[0];
+    }
+
+
     /**
      * 提取中括号中内容，忽略中括号中的中括号
      * @param msg

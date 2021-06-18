@@ -1,4 +1,4 @@
-package com.myvip.thread.sortn;
+package com.myvip.sortn;
 
 import java.util.HashMap;
 
